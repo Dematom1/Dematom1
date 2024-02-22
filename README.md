@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/D5616AQEC_m8gJYaR_g/profile-displaybackgroundimage-shrink_350_1400/0/1708619312065?e=1714003200&v=beta&t=RyS4dOeWGqgQla7FOMthInQtgAKMe_q_mhbr0SbWzxc">
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/laszlohoranszky/)
+<a href="https://www.linkedin.com/in/laszlohoranszky/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <h1 align="left">Hey There👋 </h1>
 
