@@ -42,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/dematom1/data-server)
+
 ###
 
 <img src="https://raw.githubusercontent.com/dematom1/dematom1/output/snake.svg" alt="Snake animation" />
