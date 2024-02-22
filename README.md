@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+o<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/dematom1/data-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1)](https://github.com/dematom1/data-server)
 
 ###
 
