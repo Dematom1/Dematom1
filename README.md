@@ -42,7 +42,12 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1&repo=data_server)](https://github.com/dematom1/data_server)
+## 🖥 &nbsp;Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1&repo=data_server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6))](https://github.com/dematom1/data_server)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1&repo=data_job_board&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6))](https://github.com/dematom1/data_job_board)
+
+&nbsp;
 
 ###
 
