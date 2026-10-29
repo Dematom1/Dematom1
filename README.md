@@ -49,5 +49,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1&repo=data_server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/dematom1/data_server) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1&repo=data_job_board&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/dematom1/data_job_board)
 
 
-![GitBlend Contributions](https://gitblend.com/api/contributions?username=dematom1)
-&nbsp;
+**GitHub**
+
+![GitHub contributions](https://gitblend.com/api/contributions/github?username=Dematom1&theme=github)
+
+**Work GitLab**
+
+![Work GitLab contributions](https://gitblend.com/api/contributions?username=lhoranszky&theme=github)
