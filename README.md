@@ -1,55 +1,18 @@
-<img src="https://media.licdn.com/dms/image/D5616AQEC_m8gJYaR_g/profile-displaybackgroundimage-shrink_350_1400/0/1708619312065?e=1714003200&v=beta&t=RyS4dOeWGqgQla7FOMthInQtgAKMe_q_mhbr0SbWzxc">
-<a href="https://www.linkedin.com/in/laszlohoranszky/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!-- TODO(captain): Confirm or replace this one-line bio. -->
+Data Engineer from Calgary, Alberta
 
-<h1 align="left">Hey There👋 </h1>
+[X](https://x.com/dematom1) · [LinkedIn](https://www.linkedin.com/in/laszlohoranszky/) <!-- TODO(captain): Confirm LinkedIn URL. -->
 
-###
+## What I'm building and maintaining
 
-<p align="left">My name is Laszlo and I'm a Data Engineer from Calgary, Alberta.</p>
+- [datadog-axi](https://github.com/Dematom1/datadog-axi) [![npm](https://img.shields.io/npm/v/datadog-axi)](https://www.npmjs.com/package/datadog-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/datadog-axi)](https://github.com/Dematom1/datadog-axi) - Agent-ergonomic Datadog CLI with token-efficient TOON output.
+- [argocd-axi](https://github.com/Dematom1/argocd-axi) [![npm](https://img.shields.io/npm/v/argocd-axi)](https://www.npmjs.com/package/argocd-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/argocd-axi)](https://github.com/Dematom1/argocd-axi) - Agent-ergonomic Argo CD CLI with token-efficient TOON output.
+- [argo-workflows-axi](https://github.com/Dematom1/argo-workflows-axi) [![npm](https://img.shields.io/npm/v/argo-workflows-axi)](https://www.npmjs.com/package/argo-workflows-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/argo-workflows-axi)](https://github.com/Dematom1/argo-workflows-axi) - Argo Workflows CLI with token-efficient TOON output and previewed, allowlisted writes.
 
-###
+## Contributions
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-## 🖥 &nbsp;Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1&repo=data_server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/dematom1/data_server) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1&repo=data_job_board&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/dematom1/data_job_board)
-
-
-**GitHub**
+- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes)](https://github.com/kunchenguid/no-mistakes) - Validation pipelines for catching issues before changes ship.
+- [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/firstmate)](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
 
 ![GitHub contributions](https://gitblend.com/api/contributions/github?username=Dematom1&theme=github)
 
