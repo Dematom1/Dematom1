@@ -1,58 +1,21 @@
-<img src="https://media.licdn.com/dms/image/D5616AQEC_m8gJYaR_g/profile-displaybackgroundimage-shrink_350_1400/0/1708619312065?e=1714003200&v=beta&t=RyS4dOeWGqgQla7FOMthInQtgAKMe_q_mhbr0SbWzxc">
-<a href="https://www.linkedin.com/in/laszlohoranszky/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!-- TODO(captain): Confirm or replace this one-line bio. -->
+[Data Engineer from Calgary, Alberta]
 
-<h1 align="left">Hey There👋 </h1>
+[X](https://x.com/dematom1) · [LinkedIn](https://www.linkedin.com/in/laszlohoranszky/) <!-- TODO(captain): Confirm LinkedIn URL. --> · [Website](#) <!-- TODO(captain): Add website URL. --> · [Blog](#) <!-- TODO(captain): Add blog URL. -->
 
-###
+## What I'm building and maintaining
 
-<p align="left">My name is Laszlo and I'm a Data Engineer from Calgary, Alberta.</p>
+- [datadog-axi](https://github.com/Dematom1/datadog-axi) [![npm](https://img.shields.io/npm/v/datadog-axi)](https://www.npmjs.com/package/datadog-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/datadog-axi)](https://github.com/Dematom1/datadog-axi) - Agent-ergonomic Datadog CLI with token-efficient TOON output.
+- [argocd-axi](https://github.com/Dematom1/argocd-axi) [![npm](https://img.shields.io/npm/v/argocd-axi)](https://www.npmjs.com/package/argocd-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/argocd-axi)](https://github.com/Dematom1/argocd-axi) - Agent-ergonomic Argo CD CLI with token-efficient TOON output.
+- [argo-workflows-axi](https://github.com/Dematom1/argo-workflows-axi) [![npm](https://img.shields.io/npm/v/argo-workflows-axi)](https://www.npmjs.com/package/argo-workflows-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/argo-workflows-axi)](https://github.com/Dematom1/argo-workflows-axi) - Argo Workflows CLI with token-efficient TOON output and previewed, allowlisted writes.
 
-###
+## Contributions
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-## 🖥 &nbsp;Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1&repo=data_server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/dematom1/data_server) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dematom1&repo=data_job_board&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/dematom1/data_job_board)
-
-
-**GitHub**
+- [feat(pipeline): add optional CodeRabbit pre-merge review gate](https://github.com/kunchenguid/no-mistakes/pull/1599) - no-mistakes
+- [feat(bin): add shared_quota opt-out from quota-based dispatch ranking](https://github.com/kunchenguid/firstmate/pull/7894) - firstmate
+- [feat(pipeline): screen run intent and publish structured PR briefs](https://github.com/kunchenguid/no-mistakes/pull/1649) (in progress)
+- [feat(scm): support CodeRabbit reviews across Git hosts](https://github.com/kunchenguid/no-mistakes/pull/1628) (in progress)
+- [feat(bin): park ship lanes on review and clean them up on merge](https://github.com/kunchenguid/firstmate/pull/7965) (in progress)
+- [feat(pr-poll): wake once when a ready PR/MR degrades before merging](https://github.com/kunchenguid/firstmate/pull/7858) (in progress)
 
 ![GitHub contributions](https://gitblend.com/api/contributions/github?username=Dematom1&theme=github)
-
-**Work GitLab**
-
-![Work GitLab contributions](https://gitblend.com/api/contributions?username=lhoranszky&theme=github)
