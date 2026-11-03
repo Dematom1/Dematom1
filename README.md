@@ -11,8 +11,9 @@ Data Engineer from Calgary, Alberta
 
 ## Contributions
 
-- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes)](https://github.com/kunchenguid/no-mistakes) - Validation pipelines for catching issues before changes ship.
-- [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/firstmate)](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
+- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes)](https://github.com/kunchenguid/no-mistakes) - Validation pipelines for catching issues before changes ship. 5 merged PRs: a CodeRabbit pre-merge review gate (GitHub, GitLab, GHES), trusted intent checks with structured PR briefs, and run-history indexes.
+- [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/firstmate)](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew. 2 merged PRs: monitoring author-actionable PR states and a shared-quota opt-out for dispatch ranking.
+- [kunchenguid/axi](https://github.com/kunchenguid/axi) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/axi)](https://github.com/kunchenguid/axi) - Agent eXperience Interface design principles. 1 merged PR: added argocd-axi, argo-workflows-axi and datadog-axi to the AXI community catalog.
 
 ![GitHub contributions](https://gitblend.com/api/contributions/github?username=Dematom1&theme=github)
 
