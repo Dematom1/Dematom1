@@ -5,9 +5,9 @@ Data Engineer from Calgary, Alberta
 
 ## What I'm building and maintaining
 
-- [datadog-axi](https://github.com/Dematom1/datadog-axi) [![npm](https://img.shields.io/npm/v/datadog-axi)](https://www.npmjs.com/package/datadog-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/datadog-axi)](https://github.com/Dematom1/datadog-axi) - Agent-ergonomic Datadog CLI with token-efficient TOON output.
-- [argocd-axi](https://github.com/Dematom1/argocd-axi) [![npm](https://img.shields.io/npm/v/argocd-axi)](https://www.npmjs.com/package/argocd-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/argocd-axi)](https://github.com/Dematom1/argocd-axi) - Agent-ergonomic Argo CD CLI with token-efficient TOON output.
-- [argo-workflows-axi](https://github.com/Dematom1/argo-workflows-axi) [![npm](https://img.shields.io/npm/v/argo-workflows-axi)](https://www.npmjs.com/package/argo-workflows-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/argo-workflows-axi)](https://github.com/Dematom1/argo-workflows-axi) - Argo Workflows CLI with token-efficient TOON output and previewed, allowlisted writes.
+- [datadog-axi](https://github.com/Dematom1/datadog-axi) [![npm](https://img.shields.io/npm/v/datadog-axi)](https://www.npmjs.com/package/datadog-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/datadog-axi)](https://github.com/Dematom1/datadog-axi) [![npm downloads](https://img.shields.io/npm/dw/datadog-axi)](https://www.npmjs.com/package/datadog-axi) - Agent-ergonomic Datadog CLI with token-efficient TOON output.
+- [argocd-axi](https://github.com/Dematom1/argocd-axi) [![npm](https://img.shields.io/npm/v/argocd-axi)](https://www.npmjs.com/package/argocd-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/argocd-axi)](https://github.com/Dematom1/argocd-axi) [![npm downloads](https://img.shields.io/npm/dw/argocd-axi)](https://www.npmjs.com/package/argocd-axi) - Agent-ergonomic Argo CD CLI with token-efficient TOON output.
+- [argo-workflows-axi](https://github.com/Dematom1/argo-workflows-axi) [![npm](https://img.shields.io/npm/v/argo-workflows-axi)](https://www.npmjs.com/package/argo-workflows-axi) [![GitHub stars](https://img.shields.io/github/stars/Dematom1/argo-workflows-axi)](https://github.com/Dematom1/argo-workflows-axi) [![npm downloads](https://img.shields.io/npm/dw/argo-workflows-axi)](https://www.npmjs.com/package/argo-workflows-axi) - Argo Workflows CLI with token-efficient TOON output and previewed, allowlisted writes.
 
 ## Contributions
 
