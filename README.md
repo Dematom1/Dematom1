@@ -15,7 +15,7 @@ Data Engineer from Calgary, Alberta
 
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/no-mistakes)](https://github.com/kunchenguid/no-mistakes) - Validation pipelines for catching issues before changes ship. 5 merged PRs: added CodeRabbit review gates across GitHub, GitLab and GHES, trusted intent checks, structured PR briefs, and indexed run-history lookups.
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/firstmate)](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew. 6 merged PRs: added worker-home context, recovered extension readiness, monitored actionable PRs, surfaced overdue worker pauses, opted out of shared-quota ranking, and alerted on degrading merge requests.
-- [kunchenguid/axi](https://github.com/kunchenguid/axi) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/axi)](https://github.com/kunchenguid/axi) - Agent eXperience Interface design principles. 2 merged PRs: added three community catalog entries and removed duplicate managed SessionStart hooks.
+- [kunchenguid/axi](https://github.com/kunchenguid/axi) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/axi)](https://github.com/kunchenguid/axi) - Agent eXperience Interface design principles. 3 merged PRs: added three community catalog entries, removed duplicate managed SessionStart hooks, and added terraform-axi to the community catalog.
 
 ![GitHub contributions](https://gitblend.com/api/contributions/github?username=Dematom1&theme=github)
 
