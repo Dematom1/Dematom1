@@ -17,8 +17,9 @@ Data Engineer from Calgary, Alberta
 - [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/firstmate)](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew. 6 merged PRs: added worker-home context, recovered extension readiness, monitored actionable PRs, surfaced overdue worker pauses, opted out of shared-quota ranking, and alerted on degrading merge requests.
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) [![GitHub stars](https://img.shields.io/github/stars/kunchenguid/axi)](https://github.com/kunchenguid/axi) - Agent eXperience Interface design principles. 3 merged PRs: added three community catalog entries, removed duplicate managed SessionStart hooks, and added terraform-axi to the community catalog.
 
-![GitHub contributions](https://gitblend.com/api/contributions/github?username=Dematom1&theme=github)
-
 **Work GitLab**
 
-![Work GitLab contributions](https://gitblend.com/api/contributions?username=lhoranszky&theme=github)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitblend.com/api/contributions?username=lhoranszky&theme=dark">
+  <img alt="Work GitLab contribution graph for the last year" width="100%" src="https://gitblend.com/api/contributions?username=lhoranszky&theme=github">
+</picture>
